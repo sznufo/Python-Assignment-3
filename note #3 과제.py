@@ -53,5 +53,4 @@ if len(powers) >= 2:
     del powers[1]
 if len(powers) >= 1:
     del powers[-1]
-
 print(powers)
